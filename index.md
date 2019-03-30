@@ -5,9 +5,9 @@
 
 ---
 
-### Camellia FAQ (Coming Soon!)
+### [Camellia FAQ (Coming Soon!)](faq.md)
 
-### Camellia Albums (Coming Soon!)
+### [Camellia Albums (Coming Soon!)](albums.md)
 
 ### You can follow Camellia on:
 * [Twitter (@cametek)](https://twitter.com/cametek)

@@ -1,13 +1,17 @@
-# The Camellia Fan Repository
+---
+title: The Camellia Fan Repository
+---
+
+# {{ page.title }}
 
 *This humble site is dedicated to the beloved BEMANI and doujin producer Camellia
 (かめりあ). Originally just a pastebin with a list of his albums with purchase links to make it easier for peole to find them, it has evolved into a more general source of information about one of the coolest producers out there. ~ Luna*
 
 ---
 
-### [Camellia FAQ (Coming Soon!)](faq)
+### [Camellia FAQ (Under Construction!)](faq)
 
-### [Camellia Albums (Coming Soon!)](albums)
+### [Camellia Albums](albums)
 
 ### You can follow Camellia on:
 * [Twitter (@cametek)](https://twitter.com/cametek)

@@ -1,4 +1,8 @@
-# The Camellia Fan Repository - Albums
+---
+title: The Camellia Fan Repository - Albums
+---
+
+# {{ page.title }}
 
 This page is currently copied from the [original album list](https://gist.github.com/LunarLambda/0855f7b64898bcf0d8696c190eda700d), each album will get a proper page soon!
 

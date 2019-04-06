@@ -4,46 +4,17 @@ title: The Camellia Fan Repository - Albums
 
 # {{ page.title }}
 
-This page is currently copied from the [original album list](https://gist.github.com/LunarLambda/0855f7b64898bcf0d8696c190eda700d), each album will get a proper page soon!
+### [heart of android](heart-of-android)
 
-## [heart of android](https://cametek.jp/heartofandroid)
+### [Camellia "Remixes" Summary & VIPs 02](summary02)
 
-- [Bandcamp](https://cametek.bandcamp.com/album/heart-of-android)
-- [Diverse](https://diverse.direct/%E3%81%8B%E3%82%81%E3%82%8B%E3%81%8B%E3%82%81%E3%82%8A%E3%81%82/ctcd-0018/)
-- [Tano*C](https://www.tanocstore.net/shopdetail/000000001805/)
-- [Melonbooks](https://www.melonbooks.co.jp/detail/detail.php?product_id=453497)
+### [GALAXY BURST](galaxy-burst)
 
-## [Camellia "Remixes" Summary & VIPs 02](https://cametek.jp/summary02)
+### [INVAIDAS FROM DA JUNGLE](invaids-from-da-jungle)
 
-- [Diverse](https://diverse.direct/%E3%81%8B%E3%82%81%E3%82%8B%E3%81%8B%E3%82%81%E3%82%8A%E3%81%82/ctcd-0017/)
-- [Tano*C](https://www.tanocstore.net/shopdetail/000000001603/)
-- [Melonbooks](https://www.melonbooks.co.jp/detail/detail.php?product_id=386178)
+### [Camellia "Guest Tracks" Summary & VIPs 01](summary01)
 
-## [GALAXY BURST](http://camellialapix.extsm.com)
-
-- [Amazon](https://www.amazon.com/dp/B07989QN2B/)
-- [Diverse](https://diverse.direct/exittunes/qwce-90016/)
-- [Tano*C](https://www.tanocstore.net/shopdetail/000000001441)
-
-## [INVAIDAS FROM DA JUNGLE](https://cametek.jp/jungle)
-
-- [Bandcamp](https://cametek.bandcamp.com/album/invaidas-from-da-jungle)
-- [Diverse](https://diverse.direct/%E3%81%8B%E3%82%81%E3%82%8B%E3%81%8B%E3%82%81%E3%82%8A%E3%81%82/ctcd-0016/)
-- [Tano*C](https://www.tanocstore.net/shopdetail/000000001208)
-- [Melonbooks](https://www.melonbooks.co.jp/detail/detail.php?product_id=268725)
-
-## [Camellia "Guest Tracks" Summary & VIPs 01](https://cametek.jp/summary01)
-
-- [Diverse](https://diverse.direct/%e3%81%8b%e3%82%81%e3%82%8b%e3%81%8b%e3%82%81%e3%82%8a%e3%81%82/ctcd-0015/)
-- [Tano*C](https://www.tanocstore.net/shopdetail/000000001152)
-- [Melonbooks](https://www.melonbooks.co.jp/detail/detail.php?product_id=216180) (SOLD OUT)
-
-## [Reality Distortion](http://korsk.jp/s2tb-0019/)
-
-- [Bandcamp](https://shop.attackthemusic.com/album/reality-distortion)
-- [Diverse](https://diverse.direct/s2tb-recording/s2tb-0019/) (SOLD OUT)
-- [Tano*C](https://www.tanocstore.net/shopdetail/000000001026/)
-- [Melonbooks](https://www.melonbooks.co.jp/detail/detail.php?product_id=196654)
+### [Reality Distortion](reality-distortion)
 
 ## [Cyphisonia E.P.](https://cametek.jp/cyphisonia)
 

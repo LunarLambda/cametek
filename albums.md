@@ -4,17 +4,17 @@ title: The Camellia Fan Repository - Albums
 
 # {{ page.title }}
 
-### [heart of android](heart-of-android)
+### [heart of android](albums/heart-of-android)
 
-### [Camellia "Remixes" Summary & VIPs 02](summary02)
+### [Camellia "Remixes" Summary & VIPs 02](albums/summary02)
 
-### [GALAXY BURST](galaxy-burst)
+### [GALAXY BURST](albums/galaxy-burst)
 
-### [INVAIDAS FROM DA JUNGLE](invaids-from-da-jungle)
+### [INVAIDAS FROM DA JUNGLE](albums/invaids-from-da-jungle)
 
-### [Camellia "Guest Tracks" Summary & VIPs 01](summary01)
+### [Camellia "Guest Tracks" Summary & VIPs 01](albums/summary01)
 
-### [Reality Distortion](reality-distortion)
+### [Reality Distortion](albums/reality-distortion)
 
 ## [Cyphisonia E.P.](https://cametek.jp/cyphisonia)
 

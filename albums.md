@@ -10,7 +10,7 @@ title: The Camellia Fan Repository - Albums
 
 #### [GALAXY BURST](albums/galaxy-burst)
 
-#### [INVAIDAS FROM DA JUNGLE](albums/invaids-from-da-jungle)
+#### [INVAIDAS FROM DA JUNGLE](albums/invaidas-from-da-jungle)
 
 #### [Camellia "Guest Tracks" Summary & VIPs 01](albums/summary01)
 

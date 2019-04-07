@@ -34,4 +34,4 @@ Track | Artist | Title
 11 | かめりあ | wanna go to a beach! VS. Resort Sunset
 12 | かめりあ feat. kradness | Algorithm (Hitech Psy Self-Remix)
 13 | かめりあ | flower of wilderness
-14 | DJ Genki vs かめりあ | Feelin Sky (Camellia's "200step" Self-Remix)
+14 | DJ Genki VS. かめりあ | Feelin Sky (Camellia's "200step" Self-Remix)

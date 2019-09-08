@@ -4,6 +4,8 @@ title: The Camellia Fan Repository - Albums
 
 # {{ page.title }}
 
+#### [Blackmagik Blazing](albums/blackmagik-blazing)
+
 #### [heart of android](albums/heart-of-android)
 
 #### [Camellia "Remixes" Summary & VIPs 02](albums/summary02)

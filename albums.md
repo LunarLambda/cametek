@@ -4,6 +4,8 @@ title: The Camellia Fan Repository - Albums
 
 # {{ page.title }}
 
+#### [Xroniàl Xéro](albums/xronial-xero)
+
 #### [Blackmagik Blazing](albums/blackmagik-blazing)
 
 #### [heart of android](albums/heart-of-android)
